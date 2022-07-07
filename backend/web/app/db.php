@@ -1,0 +1,1 @@
+/var/www/html/Wordpress/oPlantes_backend/backend/web/app/plugins/query-monitor/wp-content/db.php
